@@ -47,3 +47,5 @@ uv sync
 uv run main.py
 ```
 - Terminal akan menampilkan tabel hasil klasifikasi jumlah piksel foreground beserta status kehadirannya. Jendela Matplotlib akan muncul bergantian menampilkan visualisasi komparasi (`Grayscale` vs `Global` vs `Otsu` vs `Morph Final`).
+
+# Penjelasan/jawaban dari pertanyaan ada apda file `REPORT.md`
